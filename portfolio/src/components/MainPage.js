@@ -55,7 +55,7 @@ const MainPage = () => {
                     {/* </div> */}
 
                     <div className="texts-container-inner">
-                        <p className="sub-text">I am a frontend addict</p>
+                        <p className="sub-text">I am a frontend addict you know what I mean</p>
                     </div>
                     <div className="texts-container-inner">
                         <img src={whiteLinePic} alt="whiteLine"/>

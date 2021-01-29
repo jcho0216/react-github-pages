@@ -2,11 +2,5 @@
   "dependencies": {
     "gsap": "^3.6.0",
     "styled-components": "^5.2.1"
-  },
-  "devDependencies": {
-    "gh-pages": "^3.1.0"
-  },
-  "homepage": "http://jcho2.github.io/react-github-pages",
-  "predeploy": "npm rub build",
-  "deploy": "gh-pages -d build"
+  }
 }

@@ -18,11 +18,11 @@ const HeaderStyle = styled.header `
             }
         }
         .nav-menus-container {
-            width: 500px;
+            width: 30%;
             display: flex;
             justify-content: space-around;
             position: relative;
-            left: 55%;
+            left: 50%;
             .nav-menus {
                 margin : 50px 30px;
                 font-size: 18px;
