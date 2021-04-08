@@ -1,1 +1,1 @@
-react-github-pages
+Frontend Portfolio - Junseo Cho
